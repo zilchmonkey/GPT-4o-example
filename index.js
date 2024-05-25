@@ -14,7 +14,7 @@ async function getText() {
       },
       {
         role: "user",
-        content: "What is the oldest of al South American capitals?",
+        content: "What is the oldest of all South American capitals?",
       },
       {
         role: "assistant",
